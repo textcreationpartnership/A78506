@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad and serious discourse, upon a terrible letter, sent by the ministers of the province of London, to the Lord General and his Councel of War. / By W. Ca. a member of the Army.</title>
+            <author>W. Ca.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78506</idno>
+            <idno type="STC">Wing C178</idno>
+            <idno type="STC">Thomason E540_3</idno>
+            <idno type="STC">ESTC R205738</idno>
+            <idno type="EEBO-CITATION">99865028</idno>
+            <idno type="PROQUEST">99865028</idno>
+            <idno type="VID">117261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117261)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad and serious discourse, upon a terrible letter, sent by the ministers of the province of London, to the Lord General and his Councel of War. / By W. Ca. a member of the Army.</title>
+                  <author>W. Ca.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>A reply to: A serious and faithfull representation of the judgments of ministers of the Gospel within the province of London.</note>
+                  <note>Annotation on Thomason copy: "Jan. 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Serious and faithfull representation of the judgments of ministers of the Gospel within the province of London.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117261:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A ſad and ſerious DISCOVRSE, Upon a Terrible LETTER, Sent by the MINISTERS Of the Province of LONDON, To the Lord General and his Councel of War.</p>
+            <p>By <hi>W. Ca.</hi> a Member of the Army.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117261:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:117261:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>A ſad and ſerious <hi>Diſcourſe</hi> upon a terrible <hi>Letter,</hi> ſent by the Miniſters of the Province of <hi>London,</hi> to the Lord General, and his Councel of War.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen mouth Granadocs from <hi>Sion</hi> Colledg fly about with ſo much ſacred Authority, and the fierce ſons of Thunder tell us, they have obtained a Commiſ<g ref="char:EOLhyphen"/>ſion for fire and brimſtome from Heaven; and all the Cyclops of the Province of <hi>London</hi> are ſum<g ref="char:EOLhyphen"/>moned, to give up their ſtock of thunderbolts, to make up the in<g ref="char:EOLhyphen"/>dignation of the Judgments of the Miniſters of the Goſpel: that this full Viol of Wrath might be poured at once upon the heads of this preſumptuous, Heretical, Sacrilegious Army, by the hands of a new Army of Martyrs, before their threatned Conſecration. Tis high time for all that are under the influence of this prodigeous meteor, to beſpeak a covering, and ſhip themſelves in the Ark of Innocency; that the deluge of the threatned ſtorm might not irre<g ref="char:EOLhyphen"/>coverably ſink them into the bottomleſs pit of Presbyterian de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>Though I am an inconſiderable piece of their mighty rage, and <hi>impar congreſſui;</hi> and know well, that no skin is ſo invulnerable, as that which is anoynted with the oyl of Clergy, and Claſſical Au<g ref="char:EOLhyphen"/>thority; and though they are <hi>numeri fruges conſumere,</hi> yet I ſhall take the confidence to deſire them to give me the ſerious Repreſen<g ref="char:EOLhyphen"/>tations of their judgments in this particular; and poſſibly the reſt, I will debate with them more modeſtly.</p>
+            <p>Whether the prudent circumſpection of thoſe, was not much to be commended, who ordered a good quantity of Buckets to be hanged up in every ſteeple-houſe within your Province, knowing the greateſt danger, was left a miſchievous fire ſhould break ou<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from ſuch places; and often finding that a little ſpark kindles <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great flame. Sure <hi>Cacus</hi> was a Presbyter: And ſome ſay, even Gunpowder was invented by a Monk.</p>
+            <p>
+               <pb facs="tcp:117261:3"/>
+               <!-- PDF PAGE 3 -->
+But now a little more ſeriouſly.</p>
+            <p>When this horned Ant, this little beaſt branded with ſo ma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> names upon its buttock, was firſt offered to my view; I thought in reference to an equal conteſt, to have called my company toge<g ref="char:EOLhyphen"/>ther, and parcelled out to every one a Reaſon or two, preſented from theſe judicious Paſtors; that after a ſerious debate, we might have acquitted our ſelves from the danger of them, by a juſt re<g ref="char:EOLhyphen"/>ſponſal; or otherwiſe made an honorable ſubmiſſion, to the equity and truth of them.</p>
+            <p>But I found that their Cenſure and Judgment upon the proceed<g ref="char:EOLhyphen"/>ings of the Army, is like their Pulpit Confutations of Hereſies<g ref="char:punc">▪</g> Judg them by the lump, damn them in groſs, (as Whole-ſale, me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may ſell good peny-worths,) take Atheiſts, Hereticks, Shiſma<g ref="char:EOLhyphen"/>ticks, Anabaptiſts, Browniſts, Independents, and binde an huge Milſtone of Condemnation about their necks, and throw them all at once into the midſt of the Sea. When I ſaw, that moſt; or all their <hi>Bruta fulmina,</hi> were forged upon the Anvile of their own Judgments, Cenſures, Decrees; and indeed, theſe two-handed Divines, lay heavily about them with thoſe Hammers: And when they had authentickly ſaid us Covenant-breakers, Deſpiſers of lawful Authority, Rebels againſt Magiſtracy and Miniſtery, Haters of God, Goodneſs, and all good men; Patrons of Hereſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Impiety. Theſe Sorboniſts had nothing more to do, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n open the Quire of their Common-place Books, and ſhoot ſome keen Arrows out of the Sacred Writ, (with ſome bolts of their own) and eaſily deſtroy thoſe Sons of Confuſion, who in<g ref="char:EOLhyphen"/>deed deſerve to die by no worthier hands. For who knows not, that ſuch diſcourſes as theſe, though calculated for the Meridi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Province of <hi>London,</hi> yet may indifferently ſerve for any ſo<g ref="char:EOLhyphen"/>ciety of men, that can make any lawful improvement of waſte Paper: For when Weapons of Scripture, and ſound Reaſons were laid down before all the world, and theſe Maſters of De<g ref="char:EOLhyphen"/>fence invited to the Combat; what candor or ingenuity was there to refuſe the ingagement: And iſſue forth to judgment, with the confidence of a Letter, every where magnifying their Magiſterial
+<pb facs="tcp:117261:3"/>
+               <!-- PDF PAGE 3 -->power; but no where their Integrity or Wiſdom, in examining of what they ſo readily condemn.</p>
+            <p>For let all men judg what account their Forlorne gives of it <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf: I underſtanding that ſome of their prime men, that now <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erve onely to line the Hedg, had a diſpute with the General and <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome of his Officers, and had already crowed over their conqueſt; <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey deſire to ſound a Trumpet to their Victories, and though <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey heard not in that skirmiſh one piece of Reaſon diſcharged: <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otwithſtanding, they draw up their Aſſents in rank and file, with <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Brethren, take the Margent into the Text, condemn what <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey never heard. And all this, that they might ſhew the people <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Tranſgreſſions, and the houſe of <hi>Jacob</hi> their ſins.</p>
+            <p>And if for this onely end we had deſired a Conference, that the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddition of ſo many lamentable voyces, might have made up the <hi>Chorus</hi> of our condemnation, they would eaſily have ſtrung<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>the acred Harp to their own ditty, and have warned us to have no Fellowſhip with the unfruitful works of darkneſs, but reprove <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem rather.</p>
+            <p>The next Paragraph exerciſes a moſt Arbitrary and Tyrannical <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower over our proceedings (never were Muſes condemned before) <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n prejudging our Remonſtrances, Declarations, Reſtraints of Members, as Things unjuſt, illegal, unholy: For of that, the Court takes ſpecial cognizance, without the allowance of any Plea, Reaſon, and Equity, might advance in their behalf; yea, the un<g ref="char:EOLhyphen"/>happy Agreement, is judged Illegitimate, before it was born, and ſigned with the ſign of the Croſs, before ever it came into the world,<lb/>
+               <q>
+                  <l>Tantane animis coeleſtibus irae.</l>
+               </q>
+            </p>
+            <p>The next is a needleſs defence of untouched Authority a preſ<g ref="char:EOLhyphen"/>ſing all the Friends of Power in <hi>genere,</hi> to ſerve under the colours of Tyranny and Oppreſſion. A Patronage of Perſonal Priviledge againſt Publike Safety, and Advantage: The Kings, the Parlia<g ref="char:EOLhyphen"/>ments, the Magiſtrates, the Miniſters Intereſt ſo involved and con<g ref="char:EOLhyphen"/>joyned, as it is not eaſie to judg who is Heir-apparent to the dear<g ref="char:EOLhyphen"/>eſt affections of theſe indifferent men.</p>
+            <p>I ſhall therefore deſire, if one man be not appointed to lay out
+<pb facs="tcp:117261:4"/>
+               <!-- PDF PAGE 4 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:117261:4"/>
+               <!-- PDF PAGE 4 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:117261:5"/>
+               <!-- PDF PAGE 5 -->for the reſt) that a tax might be rated upon the Province of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the Parſon of Sepulchres made Collector for other mens Contributions, that ſatisfaction might be made in point of Reaſon, to ſome few demands. Becauſe in a great part of what you ſay, You pretend greater acquaintance with Policy then Religion.</p>
+            <p n="1">1. VVHether there be any ſuch ſpecifial Power, ſo formed by the Almighty Architect; that all Nations and People under Heaven, are everlaſtingly bound to ſhape the frame of their Common-wealths, in exact Conformity thereto, as the Divine <hi>Pro<g ref="char:EOLhyphen"/>totipe</hi> of Government, as <hi>Moſes</hi> had a patern for the Tabernacle; from which, in the leaſt to deviate, was a ſin. Or, whether God did ſo won the iſſuings out of Natural Wiſdom and Policy, in particu<g ref="char:EOLhyphen"/>lar Societies of men, endevoring after ſome Repreſentative of Authority, in reference to their good; as to ſtamp a ray of majeſty upon it: conſecrating it as a poſitive good to all, living under the juriſdiction of the ſame. And whether ſuch a Power, for ends of publike advantage, transferred, and accepted, may not through deficiency, or default, revolve into its root and original, and ad<g ref="char:EOLhyphen"/>mit a new debate, as to the Specification thereof. And whether this be not our preſent condition?</p>
+            <p n="2">2. Whether the ſupreame Authoritie in being, acting apparently deſtructive to the foundations of the Nations freedome, yet en<g ref="char:EOLhyphen"/>tituling juſt power to uſurped Tyrannie, may not be oppoſed by the major, or better part of the people? and if a bloudie warre enſue, and obſtinacie ſo farre conteſt with reſolution, that nothing under heaven, but the ſad arbitrement of the Sword can decide the unhappy quarrell. Whether it be not conſonant to Religion, reaſon, and ſole policie, that each partie ſhould be equally re<g ref="char:EOLhyphen"/>ſponſable to the iſſues of ſo hotly a diſputed warre? Whether this be juſt, that any power, or perſon ſhould ſo incircle it ſelfe in the conjuration of priviledge or prerogative, that from thence it might iſſue out to the deſtruction of many thouſands of people, equally heirs to the divine Image, and retire againe to the Citie of
+<pb facs="tcp:117261:5"/>
+               <!-- PDF PAGE 5 -->refuge, as a ſacred thing, not to be touched; But the other partie, in caſe of non-prevailing, conſigned over even in that caſe, to the curteſie of perpetual ſlavery.</p>
+            <p n="3">3. Whether the Authority of thoſe, by whoſe Commiſſion we engaged againſt oppreſſive power, being reverſed, and revolved into a treacherous complyance with the vanquiſhed, yet irrecon<g ref="char:EOLhyphen"/>ciled enemie, that by the fallacie of a Treatie they might breath a new life into the carcaſe of ſubdued Tyrannie, and by an unwor<g ref="char:EOLhyphen"/>thy condiſcention infranchiſe themſelves into outlawed ſoveraign<g ref="char:EOLhyphen"/>ty? whether it be not equally righteous to oppoſe ſuch deſtructive deſignes, to ſhrinke the ſinews of any hand, that would attempt the life of the Nations Liberties? It is all to me, to be drowened at <hi>Weſtminſter,</hi> or at the Iſle of <hi>Wight.</hi> If you tell us there can be no re<g ref="char:EOLhyphen"/>volutions to a higher good for Commonwealth, till the <hi>primum mo<g ref="char:EOLhyphen"/>bile</hi> of ſoveraignty be touched by an heavenly influence; your good friend Mr. <hi>Peters,</hi> a Gentleman of a little better credit, will tell you, That a loving mother being ſet upon by Theeves in her chamber, cries out for help; The elder brother attempting to unlock the door (the Key having contracted a ſeven years ruſt) the younger breaks it open, and comes in a timely reſcue, and leaves it to your wiſdoms to judge who beſt deſerved the birth-right.</p>
+            <p>If theſe unhappy undertakers had gone forth in the judiciall ſtrength of reaſon, and ſounder Authoritie then the inartificiall Argument of their owne, to have encountred the mindes of men unſatisfied in theſe particulars; their ſentence of condemnation had been more dreadfull; but to come out to defie an Army with ſuch weak Artillerie, as if they had been only ſent <hi>Balaks</hi> errant; Goe and curſe them in the name of their God; Sure theſe men made ſuch haſte to the uſe, they forget the doctrine; they inſtruct weakly, reprove ſharply, the lightning is not ſeen, but the thun<g ref="char:EOLhyphen"/>der is heard. Obſerve at what rate theſe men of the Eaſt diſcourſe.</p>
+            <p>The King broke the priviledge of the Parliament, and was wor<g ref="char:EOLhyphen"/>thily blamed, therefore the Parliament may deſtroy the Liberties of the people without controule, <hi>Sillogismus in Bocardo.</hi>
+            </p>
+            <p>Another followes of a moſt ſententious ſignification.</p>
+            <p>
+               <pb facs="tcp:117261:6"/>
+               <!-- PDF PAGE 6 -->
+The Parliament, at firſt intended us no more good then they de<g ref="char:EOLhyphen"/>clared, therefore they muſt now doe the Nation no more good then they intended. Profoundly,</p>
+            <p>We have taken a Covenant, ſacred, inviolable, of perpetuall Record, to maintain the Kings Perſon; Therefore oh King, live for ever, have we ſworn him out of his naturall capacitie of dying.</p>
+            <p>It is the conſtant opinion of grave Divines, that Kings may not be murthered, therefore Subjects may.</p>
+            <p>We have deſired that all hereſies might make their appearance before the Conſiſtorie, where the miniſteriall Tribunall is erected, therefore we tolerate them a ſad conſequence.</p>
+            <p>God hath bleſt us in our former undertakings, therefore he will, blaſt us in this. A rare experiment.</p>
+            <p>There is no neceſſitie of theſe our undertakings, becauſe they judge it a ſinne, truly if ſo, they have rightly judged; But if there be a neceſſitie, it is viſible to us only, not to them; Therefore we muſt walke, and act according to their Light, and not our owne. Excellent Divinitie; but moſt ſuperſapientially they judge our en<g ref="char:EOLhyphen"/>deavours are not righteous, becauſe they feare our ends are not.</p>
+            <p>Truly, even as much as I feare; the order of Prieſthood ſhould ſuffer martyrdome in <hi>Hartfordſhire,</hi> and be burnt at a ſtake with. Tith ſheeves.</p>
+            <p>Thus the Corporation, reaſon, and he that proportions not his beliefe to their meaſure of Judgement, muſt not publiquely vend an inch of diſcretion; For every Pariſh Prieſt muſt be a Clarke of the Market. I have done; their threatnings ſhall hurt only them they fright. And I hope by the pious induſtrie of this Parliament and Army, to ſee the Nations, freedomes ſo ſetled, in ſpire of their prieſtly rage that it ſhall be their greateſt honour to have their names forgotten.</p>
+            <closer>
+               <signed>Subſcribed,</signed> 
+               <dateline>From my Quarters at Worceſter Houſe.</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
